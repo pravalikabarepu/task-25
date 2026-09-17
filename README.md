@@ -96,7 +96,7 @@ Order-level metrics use distinct order identification, while sales calculations 
 * SQL script containing business analysis queries
 * Power BI dashboard file
 * Dashboard screenshot
-* README documentation
+* README 
 
 ## Conclusion
 
